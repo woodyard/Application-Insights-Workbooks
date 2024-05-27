@@ -712,7 +712,7 @@
                   {
                     "name": "DataQuery",
                     "source": "static",
-                    "value": "let UpdateAlert = UCUpdateAlert | where AlertStatus == \"Active\"; UpdateAlert | where  UpdateCategory == \"WindowsQualityUpdate\" and AlertStatus == \"Active\"   | project DeviceName, AlertSubtype, AlertClassification, ErrorCode, TargetBuild, AlertType   | sort by DeviceName"
+                    "value": "let _SnapshotTime = datetime({_SnapshotTime});let UpdateAlert = UCUpdateAlert |where TimeGenerated == _SnapshotTime| where AlertStatus == \"Active\"; UpdateAlert | where  UpdateCategory == \"WindowsQualityUpdate\" and AlertStatus == \"Active\"   | project DeviceName, AlertSubtype, AlertClassification, ErrorCode, TargetBuild, AlertType   | sort by DeviceName"
                   }
                 ]
               }
