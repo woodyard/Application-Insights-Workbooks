@@ -364,6 +364,6 @@ Users may have to update their query settings and subscriptions to their own acc
   "fallbackResourceIds": [
   ],
   "styleSettings": {},
-  "$schema": "https://github.com/Microsoft/Application-Insights-Workbooks/blob/master/schema/workbook.json"
+  "$schema": "https://github.com/woodyard/Application-Insights-Workbooks/blob/master/schema/workbook.json"
 }
 ```

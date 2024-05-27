@@ -9,7 +9,7 @@ It is often desirable to summarize status using a simpler domain instead present
 The example below shows how do setup a traffic light icon per computer based on the CPU utilization metric.
 
 1. Create a new empty workbook.
-2. Add a [time range parameter](https://github.com/Microsoft/Application-Insights-Workbooks/blob/master/Documentation/Parameters/Time.md) called _TimeRange_
+2. Add a [time range parameter](https://github.com/woodyard/Application-Insights-Workbooks/blob/master/Documentation/Parameters/Time.md) called _TimeRange_
 3. Use the _Add query_ link to add a log query control to the workbook. 
 4. Select the query type as _Log_, resource type as _Log Analytics_ and the resources as an Log Analytics workspace in your subscription that has VM performance data.
 5. Use the Query editor, enter:

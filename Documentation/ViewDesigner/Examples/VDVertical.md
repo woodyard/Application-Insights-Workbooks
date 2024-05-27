@@ -318,6 +318,6 @@ Users may have to update their query settings and subscriptions to their own acc
     "/subscriptions/1f3fa6d2-851c-4a91-9087-1a050f3a9c38/resourcegroups/defaultresourcegroup-eus/providers/microsoft.operationalinsights/workspaces/defaultworkspace-1f3fa6d2-851c-4a91-9087-1a050f3a9c38-eus"
   ],
   "styleSettings": {},
-  "$schema": "https://github.com/Microsoft/Application-Insights-Workbooks/blob/master/schema/workbook.json"
+  "$schema": "https://github.com/woodyard/Application-Insights-Workbooks/blob/master/schema/workbook.json"
 }
 ```

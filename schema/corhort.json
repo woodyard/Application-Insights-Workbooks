@@ -1,7 +1,7 @@
 {
     "definitions": {},
     "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "https://github.com/Microsoft/Application-Insights-Workbooks/blob/master/schema/corhort.json",
+    "$id": "https://github.com/woodyard/Application-Insights-Workbooks/blob/master/schema/corhort.json",
     "type": "object",
     "title": "Application Insights Cohort Schema",
     "required": [

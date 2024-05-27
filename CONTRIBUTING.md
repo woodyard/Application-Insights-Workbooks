@@ -17,7 +17,7 @@ Please note that this project is released with a [Contributor Code of Conduct][c
 This is the repository for Azure Monitor Workbook Templates used in the Azure Portal. Please ensure that you are opening issues in the right repository.
 
 Other repos you might be looking for:
-* [Azure Monitor Community](https://github.com/microsoft/AzureMonitorCommunity#azure-monitor-community) repo, with query, alerts, workbook samples.
+* [Azure Monitor Community](https://github.com/woodyard/AzureMonitorCommunity#azure-monitor-community) repo, with query, alerts, workbook samples.
 * [Log Analytics Query Examples](https://github.com/MicrosoftDocs/LogAnalyticsExamples) repo - contains example log analytics queries
 * [Azure Sentinel](https://github.com/azure/azure-sentinel) repo - contains queries, dashboards, templates used by Azure Sentinel
 
@@ -55,7 +55,7 @@ The github pull request will verify you've signed the CLA agreement, and that yo
 See [Deployment](Documentation/Deployment.md) page for details on build and deployments.
 
 [code-of-conduct]: https://opensource.microsoft.com/codeofconduct/
-[new-issue]: https://github.com/microsoft/Application-Insights-Workbooks/issues/new
-[issue-search]: https://github.com/microsoft/Application-Insights-Workbooks/issues
+[new-issue]: https://github.com/woodyard/Application-Insights-Workbooks/issues/new
+[issue-search]: https://github.com/woodyard/Application-Insights-Workbooks/issues
 [white-house-api-guidelines]: https://github.com/WhiteHouse/api-standards/blob/master/README.md
 [topic-branch]: https://www.git-scm.com/book/en/v2/Git-Branching-Branching-Workflows#Topic-Branches

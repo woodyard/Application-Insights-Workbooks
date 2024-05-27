@@ -50,7 +50,7 @@ Select **Done Editing**
 
 Parameters can be utilized in queries by adding curly braces {} around your parameter name.
 
-More details on parameters can be found in the [Workbooks Documentation on Parameters](https://github.com/microsoft/Application-Insights-Workbooks/blob/master/Documentation/Parameters/Parameters.md).
+More details on parameters can be found in the [Workbooks Documentation on Parameters](https://github.com/woodyard/Application-Insights-Workbooks/blob/master/Documentation/Parameters/Parameters.md).
 
 ## Updating Queries with the TimeRange Parameter <a id="Update"></a>
 **Option 1: Select TimeRange from the Time Range Dropdown for each query**

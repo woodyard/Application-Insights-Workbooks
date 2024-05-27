@@ -166,6 +166,6 @@ Map can be visualized if the underlying data/metrics has Latitude/Longitude info
 | `Metric Value` | This field specifies metric value to be shown below the map. |
 | `Create 'Others' group after` | This field specifies the limit before an "Others" group is created. |
 | `Aggregate 'Others' metrics by` | This field specifies the aggregation used for "Others" group if it is shown. |
-| `Custom formatting` | This is same as grid's custom formatting. More description [here](https://github.com/microsoft/Application-Insights-Workbooks/blob/master/Documentation/Visualizations/Grid.md#custom-number-formatting).| 
+| `Custom formatting` | This is same as grid's custom formatting. More description [here](https://github.com/woodyard/Application-Insights-Workbooks/blob/master/Documentation/Visualizations/Grid.md#custom-number-formatting).| 
 
 

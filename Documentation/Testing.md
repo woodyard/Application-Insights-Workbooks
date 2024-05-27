@@ -50,5 +50,5 @@ If this worked, a banner will display in the gallery indicating the redirection:
     ![Troubleshooting image](./Images/TestDeployTroubleshooting.png)
     - Visit your modified workbooks and galleries. Ensure your changes are being reflected.
 
-If after trying these steps you can't deploy your gallery or templates, [file an issue](https://github.com/microsoft/Application-Insights-Workbooks/issues) and we'll help debug the problem.
+If after trying these steps you can't deploy your gallery or templates, [file an issue](https://github.com/woodyard/Application-Insights-Workbooks/issues) and we'll help debug the problem.
 

@@ -4,13 +4,13 @@
     "description": "This project welcomes contributions and suggestions.  Most contributions require you to agree to a\r Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us\r the rights to use your contribution. For details, visit https://cla.microsoft.com.",
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/Microsoft/Application-Insights-Workbooks.git"
+      "url": "git+https://github.com/woodyard/Application-Insights-Workbooks.git"
     },
     "keywords": [],
     "author": "Microsoft",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/Microsoft/Application-Insights-Workbooks/issues"
+      "url": "https://github.com/woodyard/Application-Insights-Workbooks/issues"
     },
-    "homepage": "https://github.com/Microsoft/Application-Insights-Workbooks#readme"
+    "homepage": "https://github.com/woodyard/Application-Insights-Workbooks#readme"
   }

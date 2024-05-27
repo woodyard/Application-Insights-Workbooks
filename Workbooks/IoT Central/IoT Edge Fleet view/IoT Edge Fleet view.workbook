@@ -1783,7 +1783,7 @@
     {
       "type": 1,
       "content": {
-        "json": "The definition for the _Health Snapshot_ workbook is found in the community Application Insights Workbooks github repository under [Workbooks/IoT Central/IoT Edge Health Snapshot](https://github.com/microsoft/Application-Insights-Workbooks/blob/master/Workbooks/IoT Central/IoT%20Edge%20health%20snapshot/iotedge-health-snapshot.workbook).",
+        "json": "The definition for the _Health Snapshot_ workbook is found in the community Application Insights Workbooks github repository under [Workbooks/IoT Central/IoT Edge Health Snapshot](https://github.com/woodyard/Application-Insights-Workbooks/blob/master/Workbooks/IoT Central/IoT%20Edge%20health%20snapshot/iotedge-health-snapshot.workbook).",
         "style": "info"
       },
       "conditionalVisibility": {
@@ -1796,5 +1796,5 @@
   ],
   "fallbackResourceIds": [
   ],
-  "$schema": "https://github.com/Microsoft/Application-Insights-Workbooks/blob/master/schema/workbook.json"
+  "$schema": "https://github.com/woodyard/Application-Insights-Workbooks/blob/master/schema/workbook.json"
 }

@@ -772,5 +772,5 @@
   "styleSettings": {
     "paddingStyle": "narrow"
   },
-  "$schema": "https://github.com/Microsoft/Application-Insights-Workbooks/blob/master/schema/workbook.json"
+  "$schema": "https://github.com/woodyard/Application-Insights-Workbooks/blob/master/schema/workbook.json"
 }

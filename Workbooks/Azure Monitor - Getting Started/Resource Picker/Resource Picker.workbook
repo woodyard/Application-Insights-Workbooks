@@ -162,7 +162,7 @@
     {
       "type": 1,
       "content": {
-        "json": "💡 [Learn how to use this template](https://github.com/microsoft/Application-Insights-Workbooks/tree/master/Workbooks/Azure%20Monitor%20-%20Getting%20Started/Resource%20Picker)"
+        "json": "💡 [Learn how to use this template](https://github.com/woodyard/Application-Insights-Workbooks/tree/master/Workbooks/Azure%20Monitor%20-%20Getting%20Started/Resource%20Picker)"
       },
       "name": "Help message",
       "styleSettings": {
@@ -170,5 +170,5 @@
       }
     }
   ],
-  "$schema": "https://github.com/Microsoft/Application-Insights-Workbooks/blob/master/schema/workbook.json"
+  "$schema": "https://github.com/woodyard/Application-Insights-Workbooks/blob/master/schema/workbook.json"
 }

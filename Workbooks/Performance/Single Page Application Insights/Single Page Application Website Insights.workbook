@@ -12,7 +12,7 @@
     {
       "type": 1,
       "content": {
-        "json": "# Initial Load Performance Insights of Single Page Applications\r\nThis Workbook template allows you to view your Single Page Application (SPA) performance data logged by the <a href=\"https://github.com/Microsoft/Mezzurite\">Mezzurite Timing Library</a> and the <a href=\"https://github.com/Microsoft/ApplicationInsights-JS-Mezzurite\">Application Insights Mezzurite Plugin</a>\r\n\r\n"
+        "json": "# Initial Load Performance Insights of Single Page Applications\r\nThis Workbook template allows you to view your Single Page Application (SPA) performance data logged by the <a href=\"https://github.com/woodyard/Mezzurite\">Mezzurite Timing Library</a> and the <a href=\"https://github.com/woodyard/ApplicationInsights-JS-Mezzurite\">Application Insights Mezzurite Plugin</a>\r\n\r\n"
       },
       "name": "text - 0"
     },
@@ -582,7 +582,7 @@
     {
       "type": 1,
       "content": {
-        "json": "<h2 style=\"text-decoration: underline; margin-bottom: 0;\">Performance of Application Load Sub-Timings for Route \"{Route}\"</h2>\r\nThis chart is used if your <strong>ALT</strong> has regress.  The timings here are from the Performance timings object from the browser.  These sub timings come from the Perfomance Navigation timing from the browser and are based on the <a href=\"https://www.w3.org/TR/2012/REC-navigation-timing-20121217/\">W3C standards</a>.  See the <a href=\"https://github.com/Microsoft/Mezzurite\">Mezzurite GitHub</a> for more info."
+        "json": "<h2 style=\"text-decoration: underline; margin-bottom: 0;\">Performance of Application Load Sub-Timings for Route \"{Route}\"</h2>\r\nThis chart is used if your <strong>ALT</strong> has regress.  The timings here are from the Performance timings object from the browser.  These sub timings come from the Perfomance Navigation timing from the browser and are based on the <a href=\"https://www.w3.org/TR/2012/REC-navigation-timing-20121217/\">W3C standards</a>.  See the <a href=\"https://github.com/woodyard/Mezzurite\">Mezzurite GitHub</a> for more info."
       },
       "conditionalVisibility": {
         "parameterName": "Route",
@@ -626,5 +626,5 @@
       "name": "text - 15"
     }
   ],
-  "$schema": "https://github.com/Microsoft/Application-Insights-Workbooks/blob/master/schema/workbook.json"
+  "$schema": "https://github.com/woodyard/Application-Insights-Workbooks/blob/master/schema/workbook.json"
 }

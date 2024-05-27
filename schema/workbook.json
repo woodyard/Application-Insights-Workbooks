@@ -1,6 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "https://github.com/Microsoft/Application-Insights-Workbooks/blob/master/schema/workbook.json",
+    "$id": "https://github.com/woodyard/Application-Insights-Workbooks/blob/master/schema/workbook.json",
     "type": "object",
     "title": "Workbook template gallery schema",
     "required": [
@@ -37,7 +37,7 @@
             "$id": "#/properties/$schema",
             "type": "string",
             "title": "$schema",
-            "default": "https://github.com/Microsoft/Application-Insights-Workbooks/blob/master/schema/workbook.json",
+            "default": "https://github.com/woodyard/Application-Insights-Workbooks/blob/master/schema/workbook.json",
             "pattern": "^(.*)$"
         }
     },

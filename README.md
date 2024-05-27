@@ -1,4 +1,4 @@
-# Azure Monitor Workbook Templates [![Build Status](https://github.com/microsoft/Application-Insights-Workbooks/workflows/Template%20Validation/badge.svg)](https://travis-ci.org/microsoft/Application-Insights-Workbooks)
+# Azure Monitor Workbook Templates [![Build Status](https://github.com/woodyard/Application-Insights-Workbooks/workflows/Template%20Validation/badge.svg)](https://travis-ci.org/microsoft/Application-Insights-Workbooks)
 
 
 

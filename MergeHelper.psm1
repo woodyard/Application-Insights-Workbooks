@@ -106,7 +106,7 @@ function New-PullRequest {
         [string]$targetBranch
     )
     Write-Host "Publishing branch to Github"
-    & git push https://github.com/microsoft/Application-Insights-Workbooks $sourceBranch
+    & git push https://github.com/woodyard/Application-Insights-Workbooks $sourceBranch
     
-    Write-Host "All done! Please create a pull request of $sourceBranch against $targetBranch here: https://github.com/microsoft/Application-Insights-Workbooks/pulls"
+    Write-Host "All done! Please create a pull request of $sourceBranch against $targetBranch here: https://github.com/woodyard/Application-Insights-Workbooks/pulls"
 }
