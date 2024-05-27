@@ -712,7 +712,7 @@
                   {
                     "name": "DataQuery",
                     "source": "static",
-                    "value": "let UpdateAlert = UCUpdateAlert | where AlertStatus == \"Active\"; UpdateAlert | where  UpdateCategory == \"WindowsQualityUpdate\" and AlertStatus == \"Active\"   | summarize Devices=dcount(AzureADDeviceId) by ErrorCode, AlertSubtype, AlertClassification, AlertType, UpdateCategory, TargetBuild   | project-reorder AlertSubtype, AlertClassification, ErrorCode, TargetBuild, Devices, AlertType   | sort by Devices"
+                    "value": "let UpdateAlert = UCUpdateAlert | where AlertStatus == \"Active\"; UpdateAlert | where  UpdateCategory == \"WindowsQualityUpdate\" and AlertStatus == \"Active\"   | project DeviceName, AlertSubtype, AlertClassification, ErrorCode, TargetBuild, Devices, AlertType   | sort by DeviceName"
                   }
                 ]
               }
